@@ -1,1 +1,1 @@
-print(f"Hello {input("What's your name?")}")
+print("geoinformatyka rządzi ohhhh yeahhhhh!!!!")
